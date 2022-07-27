@@ -7,7 +7,7 @@ class Weapon:
         '''
         Parameters:
             name
-                name of person
+                name of weapon
             durability
                 durability points
             damage
